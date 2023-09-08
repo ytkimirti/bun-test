@@ -1,0 +1,9 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.1",
+  "workspaces": [
+    "yusuf-summer",
+    "server"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "yusuf-summer",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "build": "tsc src/*.ts --outDir dist -d --sourceMap"
+  },
+  "main": "./dist/index.js",
+  "exports": {
+    "bun": "./src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

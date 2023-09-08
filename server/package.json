@@ -1,0 +1,6 @@
+{
+  "name": "server",
+  "dependencies": {
+    "yusuf-summer": "*"
+  }
+}
